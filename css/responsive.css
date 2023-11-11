@@ -1,0 +1,211 @@
+@media (min-width: 320px) and (max-width: 575.98px) {
+  #main_menu {
+    padding: 30px 0px;
+  }
+  #main_menu .navbar-toggler-icon {
+    background-color: aliceblue;
+    border-radius: 1px #fff;
+  }
+
+  /* banner start */
+  .banner {
+    padding: 10px 0px;
+  }
+  .banner .text h1 {
+    font-size: 35px;
+    line-height: 41px;
+  }
+  .banner .text p {
+    width: auto;
+    font-size: 15px;
+    line-height: 28px;
+    margin-top: 18px;
+    margin-bottom: 24px;
+  }
+  .banner .text .btn {
+    padding: 0%;
+    margin-bottom: 35px;
+  }
+
+  .banner .text .fi {
+    padding: 12px 18px;
+  }
+  .banner .text .se {
+    font-size: 14px;
+  }
+  .banner .img {
+    padding-bottom: 25px;
+  }
+  .banner .img img {
+    width: 100%;
+  }
+
+  /* banner  end*/
+  /* work start */
+  .work {
+    padding: 25px 0px;
+  }
+
+  .work .work_text h1 {
+    font-size: 40px;
+    text-align: center;
+  }
+
+  .work .work_text p {
+    width: auto;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+  }
+
+  .work .work_text .btn {
+    text-align: center;
+  }
+  .work .work_text a {
+    font-size: 16px;
+    text-align: center;
+    line-height: 32px;
+  }
+
+  /* work  end*/
+  /* project start */
+
+  .project {
+    padding: 32px 0px;
+  }
+
+  .project .project_text h1 {
+    font-size: 33px;
+    text-align: center;
+    line-height: 40px;
+  }
+  .project .project_text h6 {
+    display: none;
+  }
+
+  .project .img img {
+    width: 100%;
+    height: 320px;
+    object-fit: cover;
+    margin-bottom: 30px;
+  }
+
+  .project .img .overlay {
+    display: none;
+  }
+
+  .project .right_img img {
+    width: 100%;
+  }
+
+  .project .right_img .overlay2 {
+    display: none;
+  }
+  /* project end */
+  /* frature start */
+  .features {
+    padding: 35px 0px;
+  }
+
+  .features .features_text h1 {
+    width: auto;
+    text-align: center;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 42px;
+    margin: auto;
+    margin-bottom: 40px;
+  }
+  /* frature end */
+  /* testimonial start */
+  .testimonial {
+    padding: 25px 0px;
+  }
+  .testimonial .left_sight h2 {
+    font-size: 35px;
+    line-height: 48px;
+    width: auto;
+    text-align: center;
+  }
+  .testimonial .left_sight p {
+    font-size: 16px;
+    line-height: 28px;
+    width: auto;
+    text-align: center;
+  }
+  .testimonial .right_sight h5 {
+    font-size: 28px;
+    line-height: 39px;
+    text-align: center;
+  }
+
+  .faq {
+    padding: 25px 0px;
+  }
+  .faq .left_sight h2 {
+    font-size: 35px;
+    line-height: 46px;
+    text-align: center;
+  }
+
+  .faq .left_sight .btn {
+    text-align: center;
+    margin-bottom: 16px;
+  }
+  .faq .left_sight .btn a {
+    margin-left: 45px;
+    margin-top: 15px;
+  }
+  /* testimonial start */
+  /* form start */
+  .form {
+    padding: 25px 0px;
+  }
+
+  .form .left_text .img img {
+    width: 100%;
+  }
+
+  .form form {
+    padding: 50px 30px;
+  }
+  .form form h2 {
+    font-size: 35px;
+    line-height: 48px;
+    text-align: center;
+  }
+  .form form p {
+    width: auto;
+    line-height: 28px;
+    text-align: center;
+  }
+  .form form .btn a {
+    padding: 12px 50px;
+  }
+  /* form end */
+  /* blog start */
+  .blog {
+    padding: 30px 0px;
+  }
+  .blog h1 {
+    font-size: 40px;
+    line-height: 34px;
+    margin-bottom: 50px;
+  }
+  .blog .item {
+    margin-bottom: 25px;
+  }
+  .blog .item img {
+    width: 100%;
+  }
+  .blog .item .text h3 {
+    font-size: 24px;
+    line-height: 33px;
+  }
+  .blog .item .text p {
+    font-size: 16px;
+    width: auto;
+  }
+  /* blog end */
+}
